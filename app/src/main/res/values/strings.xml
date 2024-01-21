@@ -2,4 +2,16 @@
     <string name="app_name">Laboratorio 6.3.1</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="caja1">Caja Uno</string>
+    <string name="caja2">Caja Dos</string>
+    <string name="caja3">Caja Tres</string>
+    <string name="caja4">Caja Cuatro</string>
+    <string name="caja5">Caja Cinco</string>
+    <string name="caja6">Caja Seis</string>
+    <string name="caja7">Caja Siete</string>
+    <string name="caja8">Caja Ocho</string>
+    <string name="caja9">Caja Nueve</string>
+    <string name="caja10">Caja Diez</string>
+    <string name="ComoJugar">Como Jugar: Pulsa en la pantalla y en los botones</string>
+
 </resources>

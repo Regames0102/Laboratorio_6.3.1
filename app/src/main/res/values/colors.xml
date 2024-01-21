@@ -2,4 +2,111 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green">#388E3C</color>
+    <color name="blue">#1976D2</color>
+    <color name="red">#D32F2F</color>
+    <color name="yellow">#FBC02D</color>
+    <color name="purple">#7B1FA2</color>
+    <color name="orange">#F57C00</color>
+    <color name="pink">#C2185B</color>
+    <color name="cyan">#0097A7</color>
+    <color name="gray">#4E4E4E</color>
+    <color name="seed">#176d33</color>
+    <color name="c1">#166D33</color>
+    <color name="dada">#FFFFFF</color>
+    <color name="c3">#A1F6AC</color>
+    <color name="c4">#002109</color>
+    <color name="c5">#516351</color>
+    <color name="dadada">#FFFFFF</color>
+    <color name="c7">#D4E8D1</color>
+    <color name="c8">#0F1F11</color>
+    <color name="c9">#39656D</color>
+    <color name="dadadada">#FFFFFF</color>
+    <color name="c11">#BDEAF3</color>
+    <color name="c12">#001F24</color>
+    <color name="c13">#BA1A1A</color>
+    <color name="c14">#FFDAD6</color>
+    <color name="ddd">#FFFFFF</color>
+    <color name="c16">#410002</color>
+    <color name="c17">#FCFDF7</color>
+    <color name="c18">#1A1C19</color>
+    <color name="dddd">#FCFDF7</color>
+    <color name="c20">#1A1C19</color>
+    <color name="dd">#DDE5DA</color>
+    <color name="c22">#414941</color>
+    <color name="c23">#727970</color>
+    <color name="ddddd">#F0F1EC</color>
+    <color name="c25">#2E312E</color>
+    <color name="c26">#86D992</color>
+    <color name="c27">#000000</color>
+    <color name="c28">#166D33</color>
+    <color name="md_theme_light_outlineVariant">#C1C9BE</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_dark_primary">#86D992</color>
+    <color name="md_theme_dark_onPrimary">#003915</color>
+    <color name="md_theme_dark_primaryContainer">#005321</color>
+    <color name="md_theme_dark_onPrimaryContainer">#A1F6AC</color>
+    <color name="md_theme_dark_secondary">#B8CCB6</color>
+    <color name="md_theme_dark_onSecondary">#233425</color>
+    <color name="md_theme_dark_secondaryContainer">#394B3A</color>
+    <color name="md_theme_dark_onSecondaryContainer">#D4E8D1</color>
+    <color name="md_theme_dark_tertiary">#A1CED7</color>
+    <color name="md_theme_dark_onTertiary">#00363D</color>
+    <color name="md_theme_dark_tertiaryContainer">#1F4D55</color>
+    <color name="md_theme_dark_onTertiaryContainer">#BDEAF3</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#1A1C19</color>
+    <color name="md_theme_dark_onBackground">#E2E3DD</color>
+    <color name="md_theme_dark_surface">#1A1C19</color>
+    <color name="md_theme_dark_onSurface">#E2E3DD</color>
+    <color name="md_theme_dark_surfaceVariant">#414941</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C1C9BE</color>
+    <color name="md_theme_dark_outline">#8B9389</color>
+    <color name="md_theme_dark_inverseOnSurface">#1A1C19</color>
+    <color name="md_theme_dark_inverseSurface">#E2E3DD</color>
+    <color name="md_theme_dark_inversePrimary">#166D33</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_surfaceTint">#86D992</color>
+    <color name="md_theme_dark_outlineVariant">#414941</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+
+
+    <array name="colores_disponibles">
+        <item>@color/black</item>
+        <item>@color/green</item>
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/purple</item>
+        <item>@color/orange</item>
+        <item>@color/pink</item>
+        <item>@color/cyan</item>
+        <item>@color/c1</item>
+        <item>@color/c3</item>
+        <item>@color/c4</item>
+        <item>@color/c5</item>
+        <item>@color/c7</item>
+        <item>@color/c8</item>
+        <item>@color/c9</item>
+        <item>@color/c11</item>
+        <item>@color/c12</item>
+        <item>@color/c13</item>
+        <item>@color/c14</item>
+        <item>@color/c16</item>
+        <item>@color/c17</item>
+        <item>@color/c18</item>
+        <item>@color/c20</item>
+        <item>@color/c22</item>
+        <item>@color/c23</item>
+        <item>@color/c23</item>
+        <item>@color/c25</item>
+        <item>@color/cyan</item>
+        <item>@color/c26</item>
+        <item>@color/c27</item>
+        <item>@color/c28</item>
+
+    </array>
 </resources>
